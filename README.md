@@ -1,1 +1,1 @@
-# RMI-Java---server-and-client
+# RMI-Java-server-and-client
